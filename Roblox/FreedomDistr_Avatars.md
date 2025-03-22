@@ -1,5 +1,3 @@
-OG One
-
 1.Black business man (Skin:Black)
 
 ```
