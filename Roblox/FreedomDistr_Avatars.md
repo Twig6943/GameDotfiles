@@ -8,7 +8,7 @@
 16630147 (Hair)
 ```
 
-2.Doom Guy
+2.Doom Guy (Skin: Green)
 
 <img src="/Roblox/Images/DoomSlayer.png" width="400"/>
 
